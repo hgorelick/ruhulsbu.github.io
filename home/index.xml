@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on Ruhul Amin</title>
     <link>https://ruhulsbu.github.io/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on Ruhul Amin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -36,8 +36,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://ruhulsbu.github.io/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Biography Hello there! Welcome to my website. I am Ruhul Amin, a graduate student in Computer Science Department at Stony Brook University. I have been very fortunate to be supervised by Professor Steven Skiena. My PhD research focus on homology based sequence alignment and annotation algorithms. As a graduate research assistant in Institute of Advanced Computational Studies of SBU, I have led multiple collaborative research works in Social Science and Health Science.</description>
     </item>
     
     <item>
@@ -120,6 +119,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
       <guid>https://ruhulsbu.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://ruhulsbu.github.io/home/awards/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/home/awards/</guid>
+      <description>BASIS National ICT Award from the Ministry of Science and ICT for Pipilika: Search Engine for Bengali Contents
+Best Poster Award at CEWIT Conference, 2017 for Word Embeddings for Genome Annotation with Deep Learning
+Best Poster Award at CEWIT Conference, 2016 for NanoBLASTer: Fast Alignment and Characterization of Oxford Nanopore Sequencing Reads
+Bangladesh Prime Minister&amp;rsquo;s Award, 2012 for outstanding research work on Mongol Dip: A Bilingual Screen Reading Software for the Visually Impaired People</description>
     </item>
     
     <item>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Academic</title>
+    <title>Publications on Ruhul Amin</title>
     <link>https://ruhulsbu.github.io/publication/</link>
-    <description>Recent content in Publications on Academic</description>
+    <description>Recent content in Publications on Ruhul Amin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -11,6 +11,33 @@
     
 	<atom:link href="https://ruhulsbu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DeepAnnotator: Genome Annotation with Deep Learning</title>
+      <link>https://ruhulsbu.github.io/publication/bcb2018/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/publication/bcb2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Distribution of Lexical Features at Multiple Levels of Analysis</title>
+      <link>https://ruhulsbu.github.io/publication/acl2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/publication/acl2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To drop or not to drop: Robustness, consistency and differential privacy properties of dropout</title>
+      <link>https://ruhulsbu.github.io/publication/dropout/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/publication/dropout/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

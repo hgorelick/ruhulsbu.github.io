@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruhul Amin on Ruhul Amin</title>
-    <link>https://ruhulsbu.github.io/</link>
-    <description>Recent content in Ruhul Amin on Ruhul Amin</description>
+    <title>1 on Ruhul Amin</title>
+    <link>https://ruhulsbu.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Ruhul Amin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ruhulsbu.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>DeepAnnotator: Genome Annotation with Deep Learning</title>
