@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Md Ruhul Amin</title>
+    <link>https://ruhulsbu.github.io/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Md Ruhul Amin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ruhulsbu.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeepAnnotator: Genome Annotation with Deep Learning</title>
+      <link>https://ruhulsbu.github.io/publication/bcb2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/publication/bcb2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pipilika: Bengali Text Search Engine</title>
+      <link>https://ruhulsbu.github.io/project/pipilika/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/project/pipilika/</guid>
+      <description>Pipilika is mostly known to Bangladeshi people as first Bangladeshi web search engine which developed from Computer Science and Engineering Department of Shahjalal University of Science and Technology, Sylhet. It is the country&amp;rsquo;s first Bangla search engine and evolved from different research initiative. It indexes Bangla and English newspapers, blogs, wikipedia, government sites and different portals of the country, or those portals which is related to Bangladesh. Pipilika is that sort of initiative which builds intelligent products and services powered by machine learning, Data Science and Artificial intelligence.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Md Ruhul Amin</title>
+    <link>https://ruhulsbu.github.io/tags/data-science/</link>
+    <description>Recent content in Data Science on Md Ruhul Amin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ruhulsbu.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pipilika: Bengali Text Search Engine</title>
+      <link>https://ruhulsbu.github.io/project/pipilika/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/project/pipilika/</guid>
+      <description>Pipilika is mostly known to Bangladeshi people as first Bangladeshi web search engine which developed from Computer Science and Engineering Department of Shahjalal University of Science and Technology, Sylhet. It is the country&amp;rsquo;s first Bangla search engine and evolved from different research initiative. It indexes Bangla and English newspapers, blogs, wikipedia, government sites and different portals of the country, or those portals which is related to Bangladesh. Pipilika is that sort of initiative which builds intelligent products and services powered by machine learning, Data Science and Artificial intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Mongol Dip: Bilingual Screen Reading Software for Visually Impaired People.</title>
+      <link>https://ruhulsbu.github.io/project/mongoldip/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/project/mongoldip/</guid>
+      <description>Mongol Dip is a software for visually impaired people to operate windows operating system for doing computational work. In this software text to speech technology is used to echo every operation done by the user. This software assist people to move through the disk spaces and open documents, rich media files as well as working with these files. Using Mongol Dip people with visual impairments are be able to create or modify documents, sending/receiving e-mails and accessing websites very simply using short cut key combinations.</description>
+    </item>
+    
+  </channel>
+</rss>

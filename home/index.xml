@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Ruhul Amin</title>
+    <title>Homes on Md Ruhul Amin</title>
     <link>https://ruhulsbu.github.io/home/</link>
-    <description>Recent content in Homes on Ruhul Amin</description>
+    <description>Recent content in Homes on Md Ruhul Amin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -22,21 +22,21 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://ruhulsbu.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/home/about/</guid>
+      <description>Biography Hello there! Welcome to my website. I am Ruhul Amin, a graduate student in Computer Science Department at Stony Brook University (SBU). I have been very fortunate to be supervised by Professor Steven Skiena. As a graduate research assistant in the Institute of Advanced Computational Science at SBU, I am leading multiple collaborative research works in Bioinformatics and Social Science. During my internship at Amazon AWS AI Algorithms group, I developed deep learning based anomaly detection algorithms.</description>
+    </item>
+    
+    <item>
       <title>Academic</title>
       <link>https://ruhulsbu.github.io/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>https://ruhulsbu.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ruhulsbu.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://ruhulsbu.github.io/home/about/</guid>
-      <description>Biography Hello there! Welcome to my website. I am Ruhul Amin, a graduate student in Computer Science Department at Stony Brook University. I have been very fortunate to be supervised by Professor Steven Skiena. My PhD research focus on homology based sequence alignment and annotation algorithms. As a graduate research assistant in Institute of Advanced Computational Studies of SBU, I have led multiple collaborative research works in Social Science and Health Science.</description>
     </item>
     
     <item>
@@ -58,6 +58,15 @@
     </item>
     
     <item>
+      <title>Tags</title>
+      <link>https://ruhulsbu.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Selected Publications</title>
       <link>https://ruhulsbu.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
@@ -67,7 +76,7 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>Collaborative Publications</title>
       <link>https://ruhulsbu.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
@@ -85,7 +94,7 @@
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks</title>
       <link>https://ruhulsbu.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
@@ -112,34 +121,24 @@
     </item>
     
     <item>
-      <title>Custom Section</title>
+      <title>Awards</title>
+      <link>https://ruhulsbu.github.io/home/awards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/home/awards/</guid>
+      <description>BASIS National ICT Award from the Ministry of Science and ICT for Pipilika: Search Engine for Bengali Contents
+Best Poster Award at IEEE R10 HTC 2017 for Design and Development of Ribo: a Social Humanoid Robot
+Best Poster Award at CEWIT Conference, 2017 for Word Embeddings for Genome Annotation with Deep Learning
+Best Poster Award at CEWIT Conference, 2016 for NanoBLASTer: Fast Alignment and Characterization of Oxford Nanopore Sequencing Reads</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
       <link>https://ruhulsbu.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://ruhulsbu.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
-    </item>
-    
-    <item>
-      <title>Awards</title>
-      <link>https://ruhulsbu.github.io/home/awards/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://ruhulsbu.github.io/home/awards/</guid>
-      <description>BASIS National ICT Award from the Ministry of Science and ICT for Pipilika: Search Engine for Bengali Contents
-Best Poster Award at CEWIT Conference, 2017 for Word Embeddings for Genome Annotation with Deep Learning
-Best Poster Award at CEWIT Conference, 2016 for NanoBLASTer: Fast Alignment and Characterization of Oxford Nanopore Sequencing Reads
-Bangladesh Prime Minister&amp;rsquo;s Award, 2012 for outstanding research work on Mongol Dip: A Bilingual Screen Reading Software for the Visually Impaired People</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://ruhulsbu.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://ruhulsbu.github.io/home/tags/</guid>
-      <description></description>
+      <description>This is an example of using the custom widget to create your own homepage section.</description>
     </item>
     
     <item>

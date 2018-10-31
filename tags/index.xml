@@ -1,15 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ruhul Amin</title>
+    <title>Tags on Md Ruhul Amin</title>
     <link>https://ruhulsbu.github.io/tags/</link>
-    <description>Recent content in Tags on Ruhul Amin</description>
+    <description>Recent content in Tags on Md Ruhul Amin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ruhulsbu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AIML</title>
+      <link>https://ruhulsbu.github.io/tags/aiml/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/tags/aiml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics</title>
+      <link>https://ruhulsbu.github.io/tags/bioinformatics/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/tags/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://ruhulsbu.github.io/tags/data-science/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://ruhulsbu.github.io/tags/deep-learning/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCI</title>
+      <link>https://ruhulsbu.github.io/tags/hci/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/tags/hci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://ruhulsbu.github.io/tags/nlp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://ruhulsbu.github.io/tags/robotics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech Synthesis</title>
+      <link>https://ruhulsbu.github.io/tags/speech-synthesis/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/tags/speech-synthesis/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

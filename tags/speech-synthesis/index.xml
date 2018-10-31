@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speech Synthesis on Md Ruhul Amin</title>
+    <link>https://ruhulsbu.github.io/tags/speech-synthesis/</link>
+    <description>Recent content in Speech Synthesis on Md Ruhul Amin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ruhulsbu.github.io/tags/speech-synthesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Subachan: Bengali Text to Speech Synthesis Software.</title>
+      <link>https://ruhulsbu.github.io/project/subachan/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/project/subachan/</guid>
+      <description>Subachan can convert Bengali words to corresponding speech. In doing these tasks, we had to develop a bunch of algorithms for the Bengali language processing. We have developed an algorithm for text normalization implementing the expansion rules based on the grammar of Bengali language. We can detect standard and non-standard words and can resolve abbreviation, as well as we can identify phrase by this algorithm. We have also developed an algorithm for phonetic analysis that converts a Bengali sentence to its phonetics using customized grapheme to phoneme rules developed based on our research on Bengali language.</description>
+    </item>
+    
+  </channel>
+</rss>

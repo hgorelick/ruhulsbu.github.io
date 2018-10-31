@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HCI on Md Ruhul Amin</title>
+    <link>https://ruhulsbu.github.io/tags/hci/</link>
+    <description>Recent content in HCI on Md Ruhul Amin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ruhulsbu.github.io/tags/hci/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mongol Dip: Bilingual Screen Reading Software for Visually Impaired People.</title>
+      <link>https://ruhulsbu.github.io/project/mongoldip/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/project/mongoldip/</guid>
+      <description>Mongol Dip is a software for visually impaired people to operate windows operating system for doing computational work. In this software text to speech technology is used to echo every operation done by the user. This software assist people to move through the disk spaces and open documents, rich media files as well as working with these files. Using Mongol Dip people with visual impairments are be able to create or modify documents, sending/receiving e-mails and accessing websites very simply using short cut key combinations.</description>
+    </item>
+    
+    <item>
+      <title>Subachan: Bengali Text to Speech Synthesis Software.</title>
+      <link>https://ruhulsbu.github.io/project/subachan/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/project/subachan/</guid>
+      <description>Subachan can convert Bengali words to corresponding speech. In doing these tasks, we had to develop a bunch of algorithms for the Bengali language processing. We have developed an algorithm for text normalization implementing the expansion rules based on the grammar of Bengali language. We can detect standard and non-standard words and can resolve abbreviation, as well as we can identify phrase by this algorithm. We have also developed an algorithm for phonetic analysis that converts a Bengali sentence to its phonetics using customized grapheme to phoneme rules developed based on our research on Bengali language.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Platform based Digital Admission System</title>
+      <link>https://ruhulsbu.github.io/project/admission/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/project/admission/</guid>
+      <description>Shahjalal University of Science &amp;amp; Technology, Bangladesh has introduced an SMS based automated registration system for admission tests. Candidates are required to send in their HSC information from any Teletalk prepaid mobile phone. Their information is then processed and verified by the Education Board. After this is completed successfully, the eligible candidates are sent a confirmation message on their mobiles instantly.Finally, the application fee for the admission test is deducted from the candidate’s prepaid mobile account and a notification is sent, again through the SMS channel.</description>
+    </item>
+    
+  </channel>
+</rss>

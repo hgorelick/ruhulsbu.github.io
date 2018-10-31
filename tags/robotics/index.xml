@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics on Md Ruhul Amin</title>
+    <link>https://ruhulsbu.github.io/tags/robotics/</link>
+    <description>Recent content in Robotics on Md Ruhul Amin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ruhulsbu.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ribo: A Social Humanoid Robot.</title>
+      <link>https://ruhulsbu.github.io/project/ribo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruhulsbu.github.io/project/ribo/</guid>
+      <description>RIBO is a Bengali speaking social humanoid robot that can speak, interact with humans, make facial gestures, handshake and dance. It is being developed by a group: RoboSUST, formed with students from Shahjalal University of Science and Technology. RIBO is currently under research and development. Initially it was made as a project funded by Bangladesh Science Fiction Society and Ministry of ICT, Bangladesh. RIBO v1.0 has only movements in the upper torso.</description>
+    </item>
+    
+  </channel>
+</rss>

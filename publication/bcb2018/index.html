@@ -15,7 +15,7 @@
   
     
   
-  <meta name="description" content="Genome annotation is the process of labeling DNA sequences of an organism with its biological features, and is one of the fundamental problems in Bioinformatics. In this paper, we evaluate DNA K-mer embeddings and the application of RNNs for genome annotation. We show how to improve the performance of our deep networks by incorporating intermediate objectives and downstream algorithms to achieve better accuracy.">
+  <meta name="description" content="Genome annotation is the process of labeling DNA sequences of an organism with its biological features, and is one of the fundamental problems in Bioinformatics. Public annotation pipelines such as NCBI integrate a variety of algorithms and homology searches on public and private databases. However, they build on the information of varying consistency and quality, produced over the last two decades. We identified 12,415 errors in NCBI RNA gene annotations, demonstrating the need for improved annotation programs. We use Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM) to demonstrate the potential of deep learning networks to annotate genome sequences, and evaluate different approaches on prokaryotic sequences from NCBI database. Particularly, we evaluate DNA K−mer embeddings and the application of RNNs for genome annotation. We show how to improve the performance of our deep networks by incorporating intermediate objectives and downstream algorithms to achieve better accuracy. Our method, called DeepAnnotator, achieves an F-score of 94%, and establishes a generalized computational approach for genome annotation using deep learning. Our results are very encouraging as our method eliminates the requirement of hand crafted features and motivates further research in application of deep learning to full genome annotation. DeepAnnotator algorithms and models can be accessed in Github: https://github.com/ruhulsbu/DeepAnnotator.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://ruhulsbu.github.io/publication/bcb2018/">
@@ -32,7 +32,7 @@
   
   
   
-  <meta name="theme-color" content="#EF525B">
+  <meta name="theme-color" content="#4caf50">
   
 
   
@@ -72,14 +72,16 @@
 
   <link rel="stylesheet" href="/styles.css">
   
-
-  
-  
+  <link rel="stylesheet" href="/css/custom.css">
   
 
   
-  <link rel="alternate" href="https://ruhulsbu.github.io/index.xml" type="application/rss+xml" title="Ruhul Amin">
-  <link rel="feed" href="https://ruhulsbu.github.io/index.xml" type="application/rss+xml" title="Ruhul Amin">
+  
+  
+
+  
+  <link rel="alternate" href="https://ruhulsbu.github.io/index.xml" type="application/rss+xml" title="Md Ruhul Amin">
+  <link rel="feed" href="https://ruhulsbu.github.io/index.xml" type="application/rss+xml" title="Md Ruhul Amin">
   
 
   <link rel="manifest" href="/site.webmanifest">
@@ -93,26 +95,26 @@
   <meta property="twitter:site" content="@ruhulsbu">
   <meta property="twitter:creator" content="@ruhulsbu">
   
-  <meta property="og:site_name" content="Ruhul Amin">
+  <meta property="og:site_name" content="Md Ruhul Amin">
   <meta property="og:url" content="https://ruhulsbu.github.io/publication/bcb2018/">
-  <meta property="og:title" content="DeepAnnotator: Genome Annotation with Deep Learning | Ruhul Amin">
-  <meta property="og:description" content="Genome annotation is the process of labeling DNA sequences of an organism with its biological features, and is one of the fundamental problems in Bioinformatics. In this paper, we evaluate DNA K-mer embeddings and the application of RNNs for genome annotation. We show how to improve the performance of our deep networks by incorporating intermediate objectives and downstream algorithms to achieve better accuracy.">
+  <meta property="og:title" content="DeepAnnotator: Genome Annotation with Deep Learning | Md Ruhul Amin">
+  <meta property="og:description" content="Genome annotation is the process of labeling DNA sequences of an organism with its biological features, and is one of the fundamental problems in Bioinformatics. Public annotation pipelines such as NCBI integrate a variety of algorithms and homology searches on public and private databases. However, they build on the information of varying consistency and quality, produced over the last two decades. We identified 12,415 errors in NCBI RNA gene annotations, demonstrating the need for improved annotation programs. We use Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM) to demonstrate the potential of deep learning networks to annotate genome sequences, and evaluate different approaches on prokaryotic sequences from NCBI database. Particularly, we evaluate DNA K−mer embeddings and the application of RNNs for genome annotation. We show how to improve the performance of our deep networks by incorporating intermediate objectives and downstream algorithms to achieve better accuracy. Our method, called DeepAnnotator, achieves an F-score of 94%, and establishes a generalized computational approach for genome annotation using deep learning. Our results are very encouraging as our method eliminates the requirement of hand crafted features and motivates further research in application of deep learning to full genome annotation. DeepAnnotator algorithms and models can be accessed in Github: https://github.com/ruhulsbu/DeepAnnotator.">
   
   
     
-  <meta property="og:image" content="https://ruhulsbu.github.io/img/updated_pipeline.jpg">
+  <meta property="og:image" content="https://ruhulsbu.github.io/img/portrait.jpg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2017-02-01T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2018-09-01T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2017-02-01T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2018-09-01T00:00:00&#43;00:00">
   
 
   
 
-  <title>DeepAnnotator: Genome Annotation with Deep Learning | Ruhul Amin</title>
+  
+
+  <title>DeepAnnotator: Genome Annotation with Deep Learning | Md Ruhul Amin</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -121,7 +123,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Ruhul Amin</a>
+      <a class="navbar-brand" href="/">Md Ruhul Amin</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -203,9 +205,9 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#talks">
+          <a class="nav-link" href="/#projects">
             
-            <span>Talks</span>
+            <span>Projects</span>
             
           </a>
         </li>
@@ -222,9 +224,9 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#projects">
+          <a class="nav-link" href="/#awards">
             
-            <span>Projects</span>
+            <span>Awards</span>
             
           </a>
         </li>
@@ -274,15 +276,6 @@
 
 
 
-<div class="article-header">
-  
-  
-  <img src="/img/updated_pipeline.jpg" class="article-banner" itemprop="image" alt="">
-  
-
-  <span class="article-header-caption">Genome Annotation with Deep Learning</span>
-</div>
-
 
 
 
@@ -323,9 +316,9 @@
 
   <span class="article-date">
     
-    <meta content="2017-02-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2017-02-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      Feb 1, 2017
+    <meta content="2018-09-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2018-09-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      Sep 1, 2018
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -394,7 +387,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Genome annotation is the process of labeling DNA sequences of an organism with its biological features, and is one of the fundamental problems in Bioinformatics. In this paper, we evaluate DNA K-mer embeddings and the application of RNNs for genome annotation. We show how to improve the performance of our deep networks by incorporating intermediate objectives and downstream algorithms to achieve better accuracy.</p>
+    <p class="pub-abstract" itemprop="text">Genome annotation is the process of labeling DNA sequences of an organism with its biological features, and is one of the fundamental problems in Bioinformatics. Public annotation pipelines such as NCBI integrate a variety of algorithms and homology searches on public and private databases. However, they build on the information of varying consistency and quality, produced over the last two decades. We identified 12,415 errors in NCBI RNA gene annotations, demonstrating the need for improved annotation programs. We use Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM) to demonstrate the potential of deep learning networks to annotate genome sequences, and evaluate different approaches on prokaryotic sequences from NCBI database. Particularly, we evaluate DNA K−mer embeddings and the application of RNNs for genome annotation. We show how to improve the performance of our deep networks by incorporating intermediate objectives and downstream algorithms to achieve better accuracy. Our method, called DeepAnnotator, achieves an F-score of 94%, and establishes a generalized computational approach for genome annotation using deep learning. Our results are very encouraging as our method eliminates the requirement of hand crafted features and motivates further research in application of deep learning to full genome annotation. DeepAnnotator algorithms and models can be accessed in Github: <a href="https://github.com/ruhulsbu/DeepAnnotator" target="_blank">https://github.com/ruhulsbu/DeepAnnotator</a>.</p>
     
 
     
@@ -437,7 +430,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            February, 2017
+            September, 2018
           </div>
         </div>
       </div>
@@ -462,6 +455,13 @@
 
 
   
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://dl.acm.org/citation.cfm?id=3233577" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -469,6 +469,9 @@
 
 
 
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/ruhulsbu/DeepAnnotator" target="_blank" rel="noopener">
+  Project
+</a>
 
 
 
@@ -492,6 +495,17 @@
 
     
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/bioinformatics/">Bioinformatics</a>
+  
+  <a class="badge badge-light" href="/tags/deep-learning/">Deep Learning</a>
+  
+</div>
+
+
+
     
 
 
@@ -514,28 +528,6 @@
       
       
       
-      
-      
-      <li>
-        <a itemprop="sameAs" href="mailto:moamin@cs.stonybrook.edu" target="_blank" rel="noopener">
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-      
-      
-      <li>
-        <a itemprop="sameAs" href="//twitter.com/ruhulsbu" target="_blank" rel="noopener">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-      
-      
-      
-      
       <li>
         <a itemprop="sameAs" href="https://scholar.google.com/citations?user=N_yWGjIAAAAJ&amp;hl=en" target="_blank" rel="noopener">
           <i class="ai ai-google-scholar"></i>
@@ -550,6 +542,15 @@
       <li>
         <a itemprop="sameAs" href="//github.com/ruhulsbu" target="_blank" rel="noopener">
           <i class="fab fa-github"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      <li>
+        <a itemprop="sameAs" href="files/cv.pdf" target="_blank" rel="noopener">
+          <i class="ai ai-cv"></i>
         </a>
       </li>
       
